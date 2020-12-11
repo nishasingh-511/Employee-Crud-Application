@@ -2,9 +2,10 @@
 Web application using python3 through its web framework Flask and using Mysql as database to store data(Read, Write, Update and Delete)
 
 ## How to run the Application
-1. Create a Python project in Visual Studio 2017
-2. Create a database and a table in SQL
-3. Create a connection file
+1. Create a Python project in Visual Studio Code.
+2. Create a database and a table in SQL.
+3. Create a connection file.
+4. Run the code and copy the localhost link from the terminal and paste it in the google url link tab.
 4. Create new record
 5. Read Data
 6. Update existing record
