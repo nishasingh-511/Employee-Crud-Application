@@ -23,4 +23,6 @@ Web application using python3 through its web framework Flask and using Mysql as
 -pip install flask-mysqldb
 
 ## What the Application looks like
+![crud](https://user-images.githubusercontent.com/29799005/101937559-07036500-3c08-11eb-8418-6f9949aaf4ff.PNG)
+
 
